@@ -1,11 +1,11 @@
 ---
-title: "Teaching"
+title: ""
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/
-venue: "University of New Mexico"
-date: 2014-01-01
-location: "City, Country"
+venue: ""
+date:
+location: ""
 ---
 Grading
 ======

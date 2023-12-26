@@ -2,7 +2,7 @@
 title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
-permalink: /
+permalink: /teaching/
 venue: "University of New Mexico"
 date: 2014-01-01
 location: "City, Country"

@@ -1,11 +1,11 @@
 ---
-title: ""
+title: " "
 collection: teaching
-type: ""
+type: " "
 permalink: /teaching/
-venue: ""
-date:
-location: ""
+venue: " "
+date: 2014-01-01
+location: "City, Country"
 ---
 Grading
 ======

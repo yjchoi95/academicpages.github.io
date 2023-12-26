@@ -1,10 +1,10 @@
 ---
 title: " "
 collection: teaching
-type: " "
+#type: " "
 permalink: /teaching/
-venue: " "
-date: 2014-01-01
+#venue: " "
+#date: 2014-01-01
 location: "City, Country"
 ---
 Grading
